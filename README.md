@@ -16,11 +16,11 @@ Java后端技术交流群(限工作一年及以上，架构视频免费领取) �
 <h2 align="center">Special Sponsors</h2>
 </p>
 
-<p align="center">
-<a href="https://e.coding.net/?utm_source=JavaGuide" target="_blank">
-  <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/Coding Devops.png" width=""/>
- </a>
-</p>
+##<p align="center">
+##<a href="https://e.coding.net/?utm_source=JavaGuide" target="_blank">
+  ##<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/Coding Devops.png" width=""/>
+ ##</a>
+##</p>
 
 由于对文件目录结构进行了大幅度修改，所以如果遇到文章中有 Github 404 链接请 [联系我](#联系我)
 
