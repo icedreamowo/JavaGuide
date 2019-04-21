@@ -13,7 +13,6 @@ Java后端技术交流群(限工作一年及以上，架构视频免费领取) �
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
-<h2 align="center">Special Sponsors</h2>
 </p>
 
 由于对文件目录结构进行了大幅度修改，所以如果遇到文章中有 Github 404 链接请 [联系我](#联系我)
